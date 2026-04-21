@@ -1,0 +1,11 @@
+mapped_reads/
+sorted_reads/
+calls/
+phylogeny/
+logs/
+benchmarks/
+.snakemake/
+*.bam
+*.bai
+*.vcf
+*.vcf.gz
